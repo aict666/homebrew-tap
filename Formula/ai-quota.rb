@@ -2,16 +2,16 @@ class AiQuota < Formula
   desc "Show Claude, Codex, and Grok quotas in the terminal"
   homepage "https://github.com/jax-yu/ai-quota"
   license "MIT"
-  version "0.1.0"
+  version "0.1.1"
 
   on_macos do
     on_arm do
-      url "https://github.com/jax-yu/ai-quota/releases/download/v0.1.0/ai-quota-darwin-arm64"
-      sha256 "f75e1d54066e23eb8376f9635f233465e9b267991536234212c12794194df938"
+      url "https://github.com/jax-yu/ai-quota/releases/download/v0.1.1/ai-quota-darwin-arm64"
+      sha256 "d73003bb60df996c524bb742a161c2bf21afe6cacf7de243cbeb319343241c5e"
     end
     on_intel do
-      url "https://github.com/jax-yu/ai-quota/releases/download/v0.1.0/ai-quota-darwin-x64"
-      sha256 "b51207f5ef2febf4806f4e2fcb2b1e3ccf172db3ed73a67c8a9670dca56f391e"
+      url "https://github.com/jax-yu/ai-quota/releases/download/v0.1.1/ai-quota-darwin-x64"
+      sha256 "02c295f87cfd615ef95270d61cb18e9f77e533aad10c6eae07fded6c1ccedfb7"
     end
   end
 
