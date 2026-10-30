@@ -1,5 +1,5 @@
-# jax-yu/homebrew-tap
+# aict666/homebrew-tap
 
 ```bash
-brew install jax-yu/tap/ai-quota
+brew install aict666/tap/ai-quota
 ```
